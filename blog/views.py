@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import markdown
 from django.views.generic import ListView
 
